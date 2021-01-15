@@ -59,4 +59,5 @@ module test(
 ```
 
 ##vedio
-{%https://youtu.be/DjpsnfYuguo%}
+
+{%youtube DjpsnfYuguo%}
