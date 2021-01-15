@@ -26,7 +26,7 @@ FPGA final
 
 ### 失敗
 
-![x](https://github.com/stefantionieren/FPGA-game/blob/main/IMG_20210115_140536.jpg)
+![x](https://github.com/stefantionieren/FPGA-game/blob/main/IMG_20210115_140936.jpg)
 
 ## FPGA 模組說明
 ```
@@ -57,3 +57,6 @@ module test(
   reg [7:0] win [7:0]; //plate of win
   reg [7:0] over [7:0]; //plate of lose
 ```
+
+##vedio
+{%https://youtu.be/DjpsnfYuguo%}
