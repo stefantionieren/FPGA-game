@@ -7,14 +7,19 @@ FPGA final
 ### 左 右 reset
 
 ### 分數
+![life](https://github.com/stefantionieren/FPGA-game/blob/main/IMG_20210115_140514pg)
 
 ### 生命
+![life](https://github.com/stefantionieren/FPGA-game/blob/main/IMG_20210115_140519.jpg)
 
 ### 8*8 遊戲中
+![ing](https://github.com/stefantionieren/FPGA-game/blob/main/IMG_20210115_140509.jpg)
 
 ### 通關
+![life](https://github.com/stefantionieren/FPGA-game/blob/main/IMG_20210115_140526pg)
 
 ### 失敗
+![life](https://github.com/stefantionieren/FPGA-game/blob/main/IMG_20210115_140536pg)
 
 ## FPGA 模組說明
 ```
